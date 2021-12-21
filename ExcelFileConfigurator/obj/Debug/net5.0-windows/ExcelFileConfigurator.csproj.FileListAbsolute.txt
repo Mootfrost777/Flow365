@@ -1,0 +1,132 @@
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.exe
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.deps.json
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.json
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.dev.json
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.cache
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.lref
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.g.resources
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfoInputs.cache
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfo.cs
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.genruntimeconfig.cache
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Semejkin_AV\Desktop\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.AssemblyReference.cache
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.exe
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.deps.json
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.json
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.dev.json
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.AssemblyReference.cache
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.cache
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.lref
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.g.resources
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfoInputs.cache
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfo.cs
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Semejkin_AV\Desktop\Новая папка\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.genruntimeconfig.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.exe
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.deps.json
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.json
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.dev.json
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\bin\Debug\net5.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.AssemblyReference.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.lref
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.g.resources
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfoInputs.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfo.cs
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.genruntimeconfig.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.exe
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.deps.json
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.json
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.dev.json
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\bin\Debug\net5.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.AssemblyReference.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.lref
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.g.resources
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfoInputs.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfo.cs
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.genruntimeconfig.cache
