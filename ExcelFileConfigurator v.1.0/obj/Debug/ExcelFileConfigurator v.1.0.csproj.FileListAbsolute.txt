@@ -1,0 +1,6 @@
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.1.0\ExcelFileConfigurator v.1.0\obj\Debug\ExcelFileConfigurator v.1.0.csproj.AssemblyReference.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.1.0\ExcelFileConfigurator v.1.0\obj\Debug\ExcelFileConfigurator v.1.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.1.0\ExcelFileConfigurator v.1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.1.0\ExcelFileConfigurator v.1.0\obj\Debug\App.g.cs
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.1.0\ExcelFileConfigurator v.1.0\obj\Debug\ExcelFileConfigurator v.1.0_MarkupCompile.cache
+C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.1.0\ExcelFileConfigurator v.1.0\obj\Debug\ExcelFileConfigurator v.1.0_MarkupCompile.lref
