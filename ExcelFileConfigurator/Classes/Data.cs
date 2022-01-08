@@ -220,13 +220,16 @@ namespace ExcelFileConfigurator.Classes
             string CarNum = GetAvalibleCar(FilePath, 0).Item1; //Get car num
             int CarCapacity = int.Parse(GetAvalibleCar(FilePath, 0).Item2); //Get car capacity
             GeneratePrev(ExcelSavePath, "temp.txt", CarNum);
-
             string name = GetNeededResources(FilePath, 3, row, col).Item1; //Get obj name
             string[] resources = GetNeededResources(FilePath, 3, row, col).Item2; //Get needed resouces for obj
             DateTime date = GetNeededResources(FilePath, 3, row, col).Item3; //Get date for obj
 
-
-            if (IsEmpty == false)
+            if (IsNotSent)
+            {
+                GeneratePrev(ExcelSavePath, "temp1.txt", CarNum);
+                IsNotSent = false;
+            }
+            else if (IsEmpty == false)
             {
                 if (CarCapacity == resources.Length)
                 {
@@ -234,7 +237,9 @@ namespace ExcelFileConfigurator.Classes
                 }
                 else if (CarCapacity < resources.Length)
                 {
-                    Generate(ExcelSavePath, CarNum, resources, date, name);
+                    WriteTemp("temp1.txt", name, resources, date, CarCapacity, resources.Length);
+                    IsNotSent = true;
+                    Update(FilePath, ExcelSavePath, row, col, IsWarn);
                 }
                 else if (string.IsNullOrEmpty(CarNum))
                 {

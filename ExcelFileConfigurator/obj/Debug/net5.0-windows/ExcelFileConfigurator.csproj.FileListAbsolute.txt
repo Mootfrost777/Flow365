@@ -130,3 +130,37 @@ C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1
 C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
 C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.pdb
 C:\Users\Semejkin_AV\Desktop\Андрей\Projects_3\ExcelFileConfigurator v.0.1\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.genruntimeconfig.cache
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.exe
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.deps.json
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.json
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.runtimeconfig.dev.json
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\EPPlus.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\bin\Debug\net5.0-windows\System.Xml.XPath.XmlDocument.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.AssemblyReference.cache
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.cache
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator_MarkupCompile.lref
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.g.resources
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfoInputs.cache
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.AssemblyInfo.cs
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.CoreCompileInputs.cache
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.csproj.CopyComplete
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ref\ExcelFileConfigurator.dll
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.pdb
+C:\Users\Anndr\Documents\GitHub\Flow365\ExcelFileConfigurator\obj\Debug\net5.0-windows\ExcelFileConfigurator.genruntimeconfig.cache
