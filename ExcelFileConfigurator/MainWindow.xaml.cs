@@ -30,17 +30,17 @@ namespace ExcelFileConfigurator
             if (ExcelPath != "")
             {
                 ExcelSavePath = SaveFile(Filter, "Выберите куда сохранить таблицу");
-                MessageBox.Show("Закройте файл выбранной вами таблицы!", "Движение 360");
+                MessageBox.Show("Закройте файл выбранной вами таблицы!", "Движение 365");
 
                 Data data = new Data();
                 data.Init(ExcelPath, IsProtected, ExcelSavePath, IsWarn);
                 //data.Init(ExcelPath, IsProtected, ExcelSavePath);
 
-                MessageBox.Show("Успешно!", "Движение 360");
+                MessageBox.Show("Успешно!", "Движение 365");
             }
             else
             {
-                MessageBox.Show("Выберите исходную таблицу", "Движение 360: ОШИБКА");
+                MessageBox.Show("Выберите исходную таблицу", "Движение 365: ОШИБКА");
             }
         }
         private void LoadExcel_Click(object sender, RoutedEventArgs e)
@@ -58,10 +58,10 @@ namespace ExcelFileConfigurator
             if (ofd.ShowDialog() == true)
             {
                 Btn.Background = new SolidColorBrush(Colors.Green);
-                MessageBox.Show("Успешно!", "Движение 360");
+                MessageBox.Show("Успешно!", "Движение 365");
                 return ofd.FileName;
             }
-            MessageBox.Show("Пожалуйста выберите файл.", "Движение 360: ОШИБКА");
+            MessageBox.Show("Пожалуйста выберите файл.", "Движение 365: ОШИБКА");
             return "";
         }
 
@@ -74,10 +74,10 @@ namespace ExcelFileConfigurator
             };
             if (sfd.ShowDialog() == true)
             {
-                MessageBox.Show("Успешно!", "Движение 360");
+                MessageBox.Show("Успешно!", "Движение 365");
                 return sfd.FileName;
             }
-            MessageBox.Show("Выберите место сохранения файла!", "Движение 360: ОШИБКА");
+            MessageBox.Show("Выберите место сохранения файла!", "Движение 365: ОШИБКА");
             return "";
         }
         private void CreateBtn_Click(object sender, RoutedEventArgs e)
@@ -88,17 +88,17 @@ namespace ExcelFileConfigurator
                 DateTime.TryParse(CurrentDate.Text, out _) == false ||
                 DateTime.TryParse(DestinationDate.Text, out _) == false)
             {
-                MessageBox.Show("Данные введены неправильно", "Движение 360: ОШИБКА");
+                MessageBox.Show("Данные введены неправильно", "Движение 365: ОШИБКА");
             }
             else if (ExcelSavePath == "")
             {
-                MessageBox.Show("Выберите место сохранения", "Движение 360: ОШИБКА");
+                MessageBox.Show("Выберите место сохранения", "Движение 365: ОШИБКА");
             }
             else
             {
                 var reportExcel = new ExcelGenerator().GenerateHeader(int.Parse(FloorCount.Text), CurrentDate.Text, DestinationDate.Text);
                 File.WriteAllBytes(ExcelSavePath, reportExcel);
-                MessageBox.Show("Успешно!", "Движение 360");
+                MessageBox.Show("Успешно!", "Движение 365");
             }
         }
     }

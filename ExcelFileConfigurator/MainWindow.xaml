@@ -5,11 +5,14 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ExcelFileConfigurator"
         mc:Ignorable="d"
-        Title="Движение 360" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+        Title="Движение 365" Height="450" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition></ColumnDefinition>
-            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition Width="48*"></ColumnDefinition>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="34*"/>
+            <ColumnDefinition Width="93*"/>
+            <ColumnDefinition Width="200*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
 
         <Grid.RowDefinitions>
@@ -17,7 +20,7 @@
             <RowDefinition></RowDefinition>
         </Grid.RowDefinitions>
 
-        <StackPanel Grid.ColumnSpan="1">
+        <StackPanel Grid.ColumnSpan="4">
             <TextBlock Text="Создание шапки таблицы" FontSize="20" FontWeight="Bold"></TextBlock>
             <TextBlock Text="Введите дату начала работ (ДД.MM.ГГГГ):"></TextBlock>
             <TextBox Name="CurrentDate" ToolTip="ДД.ММ.ГГГГ"></TextBox>
@@ -27,12 +30,12 @@
             <TextBox Name="FloorCount" ToolTip="Число без пробелов" ></TextBox>
         </StackPanel>
 
-        <StackPanel Margin="0,217,0,0" Grid.RowSpan="2" Grid.ColumnSpan="1">
+        <StackPanel Margin="0,217,0,0" Grid.RowSpan="2" Grid.ColumnSpan="4">
             <Button Name="CreateBtn" Content="Создать таблицу" Height="30" Click="CreateBtn_Click"></Button>
             <TextBlock Name="CreateOutputLabel" HorizontalAlignment="Center"></TextBlock>
         </StackPanel>
 
-        <StackPanel Grid.Column="2" Grid.ColumnSpan="2">
+        <StackPanel Grid.Column="4">
             <TextBlock Text="Создание графика отправки машин" FontSize="20" FontWeight="Bold"></TextBlock>
             <Button Name="LoadExcel" Height="30" Content="Загрузить таблицу" Background="Red" Click="LoadExcel_Click" ToolTip="Выберите таблицу с данными"></Button>
             <DockPanel>
@@ -45,7 +48,7 @@
             </DockPanel>
         </StackPanel>
 
-        <StackPanel Grid.Column="2" Grid.ColumnSpan="2" Margin="0,217,0,0" Grid.RowSpan="2">
+        <StackPanel Grid.Column="4" Margin="0,217,0,0" Grid.RowSpan="2">
             <Button Name="Calculate" Height="30" Content="Запустить" Click="Calculate_Click"></Button>
             <TextBlock Name="CalculateOutputLabel" HorizontalAlignment="Center"></TextBlock>
         </StackPanel>
