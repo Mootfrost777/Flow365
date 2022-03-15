@@ -12,11 +12,10 @@ namespace ExcelFileConfigurator.Classes
 {
     internal class Data
     {
-        private bool IsEmpty = false;
-        private bool IsNotSent = false;
-        Queue<string> PanelsQueue = new Queue<string>();
+        private bool _isEmpty = false;
+        private bool _isNotSent = false;
 
-        private Tuple<string, string> GetAvalibleCar(string FilePath, int ExcelSheetNum)
+        private Tuple<string?, string?> GetAvailableCar(string FilePath, int ExcelSheetNum)
         {
             ExcelPackage.LicenseContext = LicenseContext.NonCommercial; //License init
 
@@ -29,13 +28,16 @@ namespace ExcelFileConfigurator.Classes
 
                 for (int i = 2; i < rowCount; i++)
                 {
-                    if (worksheet.Cells[i, 4].Value?.ToString() == "да")
+                    if (worksheet.Cells?[i, 4].Value?.ToString() == "да")
                     {
-                        worksheet.Cells[i, 4].Value = "нет";
-                        var reportExcel = package.GetAsByteArray();
-                        File.WriteAllBytes(FilePath, reportExcel);
-                        return Tuple.Create(worksheet.Cells[i, 2].Value?.ToString(),
-                            worksheet.Cells[i, 3].Value?.ToString());
+                        if (worksheet.Cells != null)
+                        {
+                            worksheet.Cells[i, 4].Value = "нет";
+                            var reportExcel = package.GetAsByteArray();
+                            File.WriteAllBytes(FilePath, reportExcel);
+                            return Tuple.Create(worksheet.Cells[i, 2].Value?.ToString(),
+                                worksheet.Cells[i, 3].Value?.ToString());
+                        }
                     }
                 }
             }
@@ -74,8 +76,8 @@ namespace ExcelFileConfigurator.Classes
             int rowCount = worksheet.Dimension.End.Row; //Get row count
             string[] arr = worksheet.Cells[row, col].Value?.ToString().Split(", ");
             string? name = worksheet.Cells[row, 1].Value?.ToString();
-            DateTime date = DateTime.Parse(worksheet.Cells[1, col].Value?.ToString());
-            if (arr == null) IsEmpty = true;
+            DateTime date = DateTime.Parse(worksheet.Cells[1, col].Value?.ToString() ?? string.Empty);
+            if (arr == null) _isEmpty = true;
             return Tuple.Create(name, arr, date);
         }
 
@@ -217,19 +219,19 @@ namespace ExcelFileConfigurator.Classes
 
         private void Update(string FilePath, string ExcelSavePath, int row, int col, CheckBox IsWarn)
         {
-            string CarNum = GetAvalibleCar(FilePath, 0).Item1; //Get car num
-            int CarCapacity = int.Parse(GetAvalibleCar(FilePath, 0).Item2); //Get car capacity
+            string CarNum = GetAvailableCar(FilePath, 0).Item1; //Get car num
+            int CarCapacity = int.Parse(GetAvailableCar(FilePath, 0).Item2); //Get car capacity
             GeneratePrev(ExcelSavePath, "temp.txt", CarNum);
             string name = GetNeededResources(FilePath, 3, row, col).Item1; //Get obj name
             string[] resources = GetNeededResources(FilePath, 3, row, col).Item2; //Get needed resouces for obj
             DateTime date = GetNeededResources(FilePath, 3, row, col).Item3; //Get date for obj
 
-            if (IsNotSent)
+            if (_isNotSent)
             {
                 GeneratePrev(ExcelSavePath, "temp1.txt", CarNum);
-                IsNotSent = false;
+                _isNotSent = false;
             }
-            else if (IsEmpty == false)
+            else if (_isEmpty == false)
             {
                 if (CarCapacity == resources.Length)
                 {
@@ -238,7 +240,7 @@ namespace ExcelFileConfigurator.Classes
                 else if (CarCapacity < resources.Length)
                 {
                     WriteTemp("temp1.txt", name, resources, date, CarCapacity, resources.Length);
-                    IsNotSent = true;
+                    _isNotSent = true;
                     Update(FilePath, ExcelSavePath, row, col, IsWarn);
                 }
                 else if (string.IsNullOrEmpty(CarNum))
@@ -250,14 +252,14 @@ namespace ExcelFileConfigurator.Classes
                                         date.AddDays(1).ToShortDateString() + " ");
                     }
 
-                    IsNotSent = true;
+                    _isNotSent = true;
                     WriteTemp("temp.txt", name, resources, date, 0, resources.Length); //Write unused panels
                     ResetCars(FilePath, 0);
                 }
             }
             else
             {
-                IsEmpty = false;
+                _isEmpty = false;
                 return;
             }
         }

@@ -4,7 +4,22 @@
     <projectFile>ExcelFileConfigurator/ExcelFileConfigurator.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de3e7a97-5446-4367-ace1-108b079eb3ac" name="Changes" comment="" />
+    <list default="true" id="de3e7a97-5446-4367-ace1-108b079eb3ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExcelFileConfigurator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExcelFileConfigurator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/Classes/Data.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/Classes/Data.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/MainWindow.xaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/MainWindow.xaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/bin/Debug/net5.0-windows/ExcelFileConfigurator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/bin/Debug/net5.0-windows/ExcelFileConfigurator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/bin/Debug/net5.0-windows/ExcelFileConfigurator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/bin/Debug/net5.0-windows/ExcelFileConfigurator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/obj/Debug/net5.0-windows/ExcelFileConfigurator.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/obj/Debug/net5.0-windows/ExcelFileConfigurator.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/obj/Debug/net5.0-windows/ExcelFileConfigurator.dll" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/obj/Debug/net5.0-windows/ExcelFileConfigurator.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/obj/Debug/net5.0-windows/ExcelFileConfigurator.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/obj/Debug/net5.0-windows/ExcelFileConfigurator.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/obj/Debug/net5.0-windows/MainWindow.g.cs" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/obj/Debug/net5.0-windows/MainWindow.g.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/obj/ExcelFileConfigurator.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/obj/ExcelFileConfigurator.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/obj/ExcelFileConfigurator.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/obj/ExcelFileConfigurator.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExcelFileConfigurator/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/ExcelFileConfigurator/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="ReSpellerSettingsId" />
   </component>
   <component name="RunManager">
     <configuration name="ExcelFileConfigurator" type="DotNetProject" factoryName=".NET Project">
@@ -53,12 +69,29 @@
       <option name="presentableId" value="Default" />
       <updated>1641549697553</updated>
       <workItem from="1641549712314" duration="695000" />
+      <workItem from="1644512042942" duration="1000" />
+      <workItem from="1644512074429" duration="66000" />
+      <workItem from="1644512165198" duration="236000" />
+      <workItem from="1644512426036" duration="51000" />
+      <workItem from="1644512496956" duration="334000" />
+      <workItem from="1644512988846" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

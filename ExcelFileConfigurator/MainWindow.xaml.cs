@@ -14,8 +14,8 @@ namespace ExcelFileConfigurator
     /// </summary>
     public partial class MainWindow : System.Windows.Window
     {
-        private static string ExcelPath = "";
-        private static string ExcelSavePath = "";
+        private static string _excelPath = "";
+        private static string _excelSavePath = "";
         private const string Filter = "Files | *.xlsx; *.xlsb; *.xlsm; *.xlsb; *.xltx; *.xltm; *.xls; *.xlt; *.xls; *.xml; *.xml; *.xlam; *.xla; *.xlw; *.xlr";
 
         public MainWindow()
@@ -27,13 +27,13 @@ namespace ExcelFileConfigurator
 
         private void Calculate_Click(object sender, RoutedEventArgs e)
         {
-            if (ExcelPath != "")
+            if (_excelPath != "")
             {
-                ExcelSavePath = SaveFile(Filter, "Выберите куда сохранить таблицу");
+                _excelSavePath = SaveFile(Filter, "Выберите куда сохранить таблицу");
                 MessageBox.Show("Закройте файл выбранной вами таблицы!", "Движение 365");
 
                 Data data = new Data();
-                data.Init(ExcelPath, IsProtected, ExcelSavePath, IsWarn);
+                data.Init(_excelPath, IsProtected, _excelSavePath, IsWarn);
                 //data.Init(ExcelPath, IsProtected, ExcelSavePath);
 
                 MessageBox.Show("Успешно!", "Движение 365");
@@ -45,7 +45,7 @@ namespace ExcelFileConfigurator
         }
         private void LoadExcel_Click(object sender, RoutedEventArgs e)
         {
-            ExcelPath = ChooseFile(Filter, "Выберите файл таблицы", LoadExcel);
+            _excelPath = ChooseFile(Filter, "Выберите файл таблицы", LoadExcel);
         }
 
         private static string ChooseFile(string Filter, string Title, Button Btn)
@@ -82,7 +82,7 @@ namespace ExcelFileConfigurator
         }
         private void CreateBtn_Click(object sender, RoutedEventArgs e)
         {
-            ExcelSavePath = SaveFile(Filter, "Выберите куда сохранить таблицу");
+            _excelSavePath = SaveFile(Filter, "Выберите куда сохранить таблицу");
 
             if (int.TryParse(FloorCount.Text, out _) == false ||
                 DateTime.TryParse(CurrentDate.Text, out _) == false ||
@@ -90,14 +90,14 @@ namespace ExcelFileConfigurator
             {
                 MessageBox.Show("Данные введены неправильно", "Движение 365: ОШИБКА");
             }
-            else if (ExcelSavePath == "")
+            else if (_excelSavePath == "")
             {
                 MessageBox.Show("Выберите место сохранения", "Движение 365: ОШИБКА");
             }
             else
             {
                 var reportExcel = new ExcelGenerator().GenerateHeader(int.Parse(FloorCount.Text), CurrentDate.Text, DestinationDate.Text);
-                File.WriteAllBytes(ExcelSavePath, reportExcel);
+                File.WriteAllBytes(_excelSavePath, reportExcel);
                 MessageBox.Show("Успешно!", "Движение 365");
             }
         }

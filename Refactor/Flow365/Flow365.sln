@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flow365", "Flow365\Flow365.csproj", "{BCDC383A-1AA3-4124-B404-9F5CB902BAEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDC383A-1AA3-4124-B404-9F5CB902BAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDC383A-1AA3-4124-B404-9F5CB902BAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDC383A-1AA3-4124-B404-9F5CB902BAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDC383A-1AA3-4124-B404-9F5CB902BAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC0B089D-4412-42CC-B4BA-797412568E94}
+	EndGlobalSection
+EndGlobal
